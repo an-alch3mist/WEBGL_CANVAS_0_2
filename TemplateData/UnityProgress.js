@@ -27,4 +27,5 @@ function UnityProgress(unityInstance, progress)
   */
 
   _progress(progress)
+  
 }
